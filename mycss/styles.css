@@ -1,0 +1,710 @@
+/* CSS Document */
+#container_for_jssor_slide
+{
+width:85%;
+margin: 0 auto;
+margin-bottom:30px;
+}
+
+
+.bxshdw
+{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxshdw_container
+{
+	background-color: #73651D;
+	color: #fff;
+}
+
+#ourboost
+{
+	margin-top:20px;
+	color:red;
+	font-size:1.4em;
+	text-transform:uppercase;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#banner_sec
+{
+	width:100%;
+	background-color:#edcb0d;
+	margin-top:0px;
+}
+
+	
+.main_container
+{
+	width:85%;
+	margin: 0 auto;
+	background:#fff;
+	padding:0%;
+	
+}
+		
+.loginInput
+{
+	
+	height:45px;
+	border-radius:3px;
+   margin:2%;
+   clear:both;
+   color:#fff;
+   background-color:transparent;
+   border-color:#fff;
+   
+}
+
+.contactloginInput
+{
+	
+	height:45px;
+	border-radius:3px;
+   margin:2%;
+   clear:both;
+   color:#fff;
+   background-color:transparent;
+   border-color:#000;
+   
+}
+   .loginInput:focus {
+	outline:none;border: 1px solid #fff;
+	box-shadow: 0 0 10px #fff;
+	-moz-box-shadow: 0 0 10px #f39c12;
+	-webkit-box-shadow: 0 0 10px #edcb0d;
+	background-color: #000;
+	}
+
+.but {
+		margin-top:10px;
+		background-color:#FF4500;
+		color:#fff;
+		border-radius:6px;
+	 border-style:groove;
+   border-width:thin;
+   border-color:#FF4500;
+   border-collapse:collapse;
+		width:100px;
+		height:35px;
+		
+}
+
+#top_bar_with_logo
+{
+	width:85%;
+	height:120px;
+	margin-bottom:0px;
+	margin-top:10px;
+	margin:auto;
+	}
+	#contain_navigation
+{
+	width:85%;
+	margin-bottom:0px;
+	margin-top:10px;
+	margin:auto;
+	}
+
+
+
+
+
+.slide_div
+{
+	width:100%;
+	background-color:#FFF;
+}
+	.left-side
+{
+	width:100%;
+	background-color:#fff;
+	
+	}
+	
+	
+	
+	
+	.second_section
+{
+	width:90%;
+	margin: auto;
+	
+}
+	
+	
+	
+
+.sec1
+{
+	width: 18%;
+	float: left;
+	margin:2%;
+	padding:1%;
+		
+}
+.sec2
+{
+	width:30%;
+	float:left;
+	margin:2%;
+	padding:1%;
+	}
+	
+	
+	
+.sec3
+{
+	width:30%;
+	float:left;
+	padding:1%;
+	
+	
+}
+
+#abtusimg
+{
+	width: 25%;
+	float: left;
+}
+#abtuscontent
+{
+	width: 68%;
+	float: right;
+}
+
+.bottom-box1
+{
+	width: 60%;
+	float: left;
+	margin-left:2%;
+	padding:1%;
+	border:2px;
+	border-style:solid;
+	border-color:#222;
+	border-width:thin;
+	border-radius:3px;
+		
+}
+.bottombox2
+{
+	width:30%;
+	float:left;
+	padding:1%;
+	margin-left: 4%;
+	border-style:solid;
+	border-color:#222;
+	border-width:thin;
+	border-radius:3px;
+	}
+	
+	
+	
+.bottombox3
+{
+	width:28%;
+	float:left;
+	padding:1%;
+	margin-left: 6%;
+	border-style:solid;
+	border-color:#222;
+	border-width:thin;
+	border-radius:3px;
+	
+	
+}
+
+
+
+#sec1a
+{
+	width:55%;
+	color: #222;
+	font-family:"Book Antiqua";
+	font-size: 1.6em;
+	text-align: justify;
+	float: left;
+	padding:1%;
+	margin: 1%;
+	background:#edcb0d;
+		
+}
+#sec2a
+{
+	width:30%;
+	float:left;
+	padding:1%;
+	background-color:#DFEBEC;
+	}
+	
+	
+	
+#sec3a
+{
+	width:28%;
+	float:left;
+	padding:1%;
+	background-color:#DFEBEC;
+		
+
+}
+
+.abtus-side
+{
+	width:25%;
+	color: #222;
+	font-family:"Arial Narrow";
+	font-size: 1.6em;
+	float: left;
+	padding:2px;;
+	background:#edcb0d;
+	border-radius:6px;
+}
+.abtus-right-side1
+{
+	width:30%;
+	float: right;
+	margin-top:1px;
+		
+	
+}
+.abtus-right-side2
+{
+	width:35%;
+	color: #222;
+	font-family:"Arial Narrow";
+	font-size: 1.6em;
+	float: right;
+	background:#edcb0d;
+	display:block;	
+	margin-top:1%;
+	
+}
+
+
+
+
+
+.secon_divition
+{
+	width:100%;
+	padding:1%;
+	margin: 1%;
+	margin-top: 5%;
+	
+	
+}
+
+/*background-color:#edcb0d; */
+
+.social_media
+{
+	float:right;
+	margin-left:0%;
+	margin-top:0%;
+	width:100%;
+
+}
+.footerlinks
+{
+	width: 20%; 
+	border-right: 2px;
+	border-right-width:thin;
+	border-right-style: solid;
+	border-right-color:#222;
+	margin-left:6%;
+	float:left;
+}
+.footerlinks1
+{
+	width: 20%; 
+	border-right: 2px;
+	border-right-width:thin;
+	border-right-style: solid;
+	border-right-color:#222;
+	margin-left:6%;
+	float:left;
+}
+
+.mainfooter
+		{   
+			
+			width:100%;
+			float:right;
+			border-radius:0%;
+			margin-top:3%;
+			margin-bottom:0px;
+			color:#666;
+			font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+			height:100%;
+			padding:3%;
+			background:#edcb0d;
+		}
+		
+		
+		/* Tablet  */
+		
+		@media only screen and (min-width: 480px) and  (max-width: 786px)
+{
+	body {
+  padding: 0%;
+  margin: 0%;
+  width:98%;
+  font-size:87.5%; /* Basic font-size is 14px*/
+	font-family:Arial, 'Lucida Sans unicode';
+		line-height:1.5;
+		text-align:left;
+		clear:both;
+}
+
+.container_main {
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+
+.menubar
+{
+	float:left;
+	 margin: 0 auto;
+	background-image:url(../images/div_bg.fw.png);
+	width:100%;
+
+}
+
+
+
+
+
+.left-side
+{
+	width:90%;
+	float:left;
+	border-radius:1%;
+	border-width:thin;
+	background-image:url(../images/div_bg.fw.png);
+	padding:2% 3%;
+	clear:both;
+}
+
+.right-side
+{
+	width:40%;
+	float:left;
+	border-radius:1%;
+	border-width:thin;
+	background-image:url(../images/div_bg.fw.png);
+	padding:2% 3%;
+	clear:both;
+}
+
+.welcomeTxt
+{
+	width::50%;
+	padding:2%;
+	color:#fff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:1em;
+	text-align:justify;
+}
+
+.newsheadlines
+{
+	width::50%;
+	float:right;
+	padding:2%;
+	color:#fff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:1em;
+	text-align:left;
+}
+
+
+.social_media
+{
+	float:right;
+	margin-left:0%;
+	margin-top:0%;
+	width:70%;
+
+}
+.social_images
+{
+	float:left;
+	 margin: 0 auto;
+	 width:50%;
+
+}
+
+.mainfooter
+		{   
+			background-image:url(../images/footer_bg.fw.png);
+			width:100%;
+			float:left;
+			-moz-border-radius:5px;
+			-webkit-border-radius:5px;
+			margin:0%;
+			color:#fff;
+			font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+			height:100%;
+			
+		}
+}
+		
+		
+		
+		
+		
+		
+		/* Elkhart on Mobile Devices */
+		@media only screen and  (max-width: 480px)
+		
+{
+	body
+		{
+			width:100%;
+			margin:0px;
+		}
+	
+	.abtus-side
+{
+	width:100%;
+	color: #222;
+	font-family:"Arial Narrow";
+	font-size: 1em;
+	padding:2px;;
+	background:#edcb0d;
+	border-radius:6px;
+	margin: 0px;
+}
+
+.abtus-right-side1
+{
+	width:100%;
+	margin-top:1px;
+		
+	
+}
+#abtuscontent
+{
+	width: 100%;
+}
+
+#abtusimg
+{
+	width: 100%;
+}
+	
+	#ourboost
+{
+	margin:4%;
+	color:#666;
+	font-size:small;
+	width:100%;
+	clear: both;
+	margin-top: 10px;
+	
+}
+
+
+.container_main {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#utube
+{
+	width:40%;
+	height:40px;
+}
+#facebk
+{
+	width:50;
+	height:40px;
+}
+#tweet
+{
+	width:40;
+	height:40px;
+}
+
+.menubar
+{
+	float:left;
+	 margin: 0 auto;
+	background-image:url(../images/menu_bg.fw.png);
+	width:100%;
+
+}
+
+#AptechsocialMedia
+{
+	width:100%;
+	margin:0.2%;
+}
+
+
+
+
+.newsheadlines
+{
+	width::100%;
+	float:right;
+	padding:2%;
+	color:#fff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:0.5em;
+	text-align:left;
+}
+
+
+
+#top_bar_with_logo
+{
+	width:100%;
+	
+	}
+	
+	
+	#contain_navigation
+{
+	width:100%;
+		}
+
+.sec1
+{
+	width:100%;
+	float:left;
+	padding:1%;
+	margin-left:0%;
+	margin-bottom:3%;
+	margin-top:0%;;
+}
+.sec2
+{
+	width:100%;
+	float:left;
+	padding:1%;
+	margin-left:0%;
+	margin-bottom:3%;
+	margin-top:0%;;
+
+}
+.sec3
+{
+	width:100%;
+	float:left;
+	padding:1%;
+	margin-left:0%;
+	margin-bottom:3%;
+	margin-top:0%;
+
+
+}
+
+
+#sec1a
+{
+	width: 100%;
+	float: left;
+	padding: 1%;
+	
+		
+}
+#sec2a
+{
+	width:100%;
+	float:left;
+	padding:1%;
+	
+	}
+	
+	
+	
+#sec3a
+{
+	width:100%;
+	float:left;
+	padding:1%;
+	
+		
+
+}
+.mainfooter
+		{   
+			background-image:url(../images/footer_bg.fw.png);
+			
+			color:#fff;
+			font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+			height:100%;
+			
+		}
+		.footerlinks
+{
+	width: 100%; 
+	border-right: 2px;
+	border-right-width:thin;
+	border-right-style: solid;
+	border-right-color:#222;
+	margin-left:6%;
+	float:left;
+}
+.footerlinks1
+{
+	width: 100%; 
+	border-right: 2px;
+	border-right-width:thin;
+	border-right-style: solid;
+	border-right-color:#222;
+	margin-left:6%;
+	float:left;
+}
+.bottom-box1
+{
+	width: 100%;
+	padding:1%;
+	border:2px;
+	border-style:solid;
+	border-color:#222;
+	border-width:thin;
+	border-radius:3px;
+		
+}
+.bottombox2
+{
+	width:100%;
+	padding:1%;
+	border:2px;
+	border-style:solid;
+	border-color:#222;
+	border-width:thin;
+	border-radius:3px;
+	margin:2%;
+	}
+	
+	
+	
+.bottombox3
+{
+width:100%;
+	padding:1%;
+	border:2px;
+	border-style:solid;
+	border-color:#222;
+	border-width:thin;
+	border-radius:3px;	
+	margin:2%;
+	
+}
+
+
+.container .left-side #sec1 #welcomeTxt #welcomeTxt {
+	font-size: 1.2em;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+
+
+
+}
